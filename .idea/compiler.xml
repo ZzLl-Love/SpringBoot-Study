@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ThreeSpringboot" />
+        <module name="springboot-ssm" />
+        <module name="hsp-springboot-01" />
+        <module name="SecondSpringboot" />
+        <module name="hsp-boot-Rest" />
+        <module name="FirstSpringboot" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="FirstSpringboot" target="1.8" />
+      <module name="hsp-boot-Rest" target="1.8" />
+      <module name="hsp-springboot-01" target="1.8" />
+      <module name="SecondSpringboot" target="1.8" />
+      <module name="springboot-ssm" target="1.8" />
+      <module name="ThreeSpringboot" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="FirstSpringboot" options="-parameters" />
+      <module name="SecondSpringboot" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+server:
+  port: 8080
+sy:
+  name: sy
+  password: 123456
+

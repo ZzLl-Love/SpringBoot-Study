@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/FirstSpringboot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SecondSpringboot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ThreeSpringboot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ThreeSpringboot/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hsp-boot-Rest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hsp-boot-Rest/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hsp-springboot-01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hsp-springboot-01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-ssm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-ssm/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

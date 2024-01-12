@@ -1,0 +1,13 @@
+
+L	java:S106("+Replace this use of System.out by a logger.(Ÿžœ”üÿÿÿÿ8²€§ÐÂ1
+X	java:S125"<This block of commented-out lines of code should be removed.(¡¨¢8³€§ÐÂ1
+X	java:S125"<This block of commented-out lines of code should be removed.(ËÑÐå8³€§ÐÂ1
+]	java:S125"<This block of commented-out lines of code should be removed.(ôæÑÛÿÿÿÿÿ8³€§ÐÂ1
+G	java:S106*"+Replace this use of System.out by a logger.(˜Ì“Ñ8µô¯ÐÂ1
+L	java:S106+"+Replace this use of System.out by a logger.(Ÿžœ”üÿÿÿÿ8ê¼³ÐÂ1
+P
+java:S1128".Remove this unused import 'cn.zyy.domain.Dog'.(êú÷›úÿÿÿÿ8†ªÐÂ1
+h
+java:S1128"KRemove this unused import 'org.springframework.context.ApplicationContext'.(»Ô»¿8Ž†ªÐÂ1
+
+java:S1128	"_Remove this unused import 'org.springframework.context.support.ClassPathXmlApplicationContext'.(•ËÛüÿÿÿÿ8Ž†ªÐÂ1

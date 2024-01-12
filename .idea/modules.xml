@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FirstSpringboot/FirstSpringboot.iml" filepath="$PROJECT_DIR$/FirstSpringboot/FirstSpringboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SecondSpringboot/SecondSpringboot.iml" filepath="$PROJECT_DIR$/SecondSpringboot/SecondSpringboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreeSpringboot/ThreeSpringboot.iml" filepath="$PROJECT_DIR$/ThreeSpringboot/ThreeSpringboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hsp-boot-Rest/hsp-boot-Rest.iml" filepath="$PROJECT_DIR$/hsp-boot-Rest/hsp-boot-Rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hsp-springboot-01/hsp-springboot-01.iml" filepath="$PROJECT_DIR$/hsp-springboot-01/hsp-springboot-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-ssm/springboot-ssm.iml" filepath="$PROJECT_DIR$/springboot-ssm/springboot-ssm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootStudy.iml" filepath="$PROJECT_DIR$/springbootStudy.iml" />
+    </modules>
+  </component>
+</project>
